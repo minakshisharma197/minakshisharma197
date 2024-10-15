@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @minakshisharma197
 - 👀 I’m interested in Artificial intellignece and machine learning
 - 🌱 I’m currently learning git and github
-- 💞️ I’m looking to collaborate on ope source projects 
+- 💞️ I’m looking to collaborate on open source projects 
 - 😄 Pronouns: her
 
 
